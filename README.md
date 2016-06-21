@@ -4,4 +4,4 @@ Repo includes dallastemperature and onewire(latest) library
 
 Wiring Diagram with gizDuino PLUS
 --------------
-https://drive.google.com/file/d/0BxdLxDCD6HideDI1YTAxWFFzanM/view?usp=sharing
+http://i448.photobucket.com/albums/qq202/monegizmo/wcmcu/ds18b20%20sample_zpsw49twdj3.png
